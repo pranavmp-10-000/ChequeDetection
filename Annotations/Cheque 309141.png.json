@@ -1,0 +1,112 @@
+{
+    "instances": [
+        {
+            "type": "bbox",
+            "classId": 5,
+            "probability": 100,
+            "points": {
+                "x1": 575.9,
+                "x2": 915.4,
+                "y1": 860.8,
+                "y2": 1057.6
+            },
+            "groupId": 0,
+            "pointLabels": {},
+            "locked": false,
+            "visible": true,
+            "attributes": [],
+            "className": "ChqNo"
+        },
+        {
+            "type": "bbox",
+            "classId": 3,
+            "probability": 100,
+            "points": {
+                "x1": 91,
+                "x2": 765.5,
+                "y1": 539.5,
+                "y2": 619.8
+            },
+            "groupId": 0,
+            "pointLabels": {},
+            "locked": false,
+            "visible": true,
+            "attributes": [],
+            "className": "AcNo"
+        },
+        {
+            "type": "bbox",
+            "classId": 1,
+            "probability": 100,
+            "points": {
+                "x1": 47.7,
+                "x2": 836.7,
+                "y1": 11.1,
+                "y2": 135.3
+            },
+            "groupId": 0,
+            "pointLabels": {},
+            "locked": false,
+            "visible": true,
+            "attributes": [],
+            "className": "IssueBank"
+        },
+        {
+            "type": "bbox",
+            "classId": 2,
+            "probability": 100,
+            "points": {
+                "x1": 52.8,
+                "x2": 1708.8,
+                "y1": 213.4,
+                "y2": 315
+            },
+            "groupId": 0,
+            "pointLabels": {},
+            "locked": false,
+            "visible": true,
+            "attributes": [],
+            "className": "ReceiverName"
+        },
+        {
+            "type": "bbox",
+            "classId": 4,
+            "probability": 100,
+            "points": {
+                "x1": 1686.4,
+                "x2": 2307.6,
+                "y1": 371.7,
+                "y2": 525.2
+            },
+            "groupId": 0,
+            "pointLabels": {},
+            "locked": false,
+            "visible": true,
+            "attributes": [],
+            "className": "Amt"
+        },
+        {
+            "type": "bbox",
+            "classId": 6,
+            "probability": 100,
+            "points": {
+                "x1": 1755.5,
+                "x2": 2360.8,
+                "y1": 79.1,
+                "y2": 221.5
+            },
+            "groupId": 0,
+            "pointLabels": {},
+            "locked": false,
+            "visible": true,
+            "attributes": [],
+            "className": "DateIss"
+        }
+    ],
+    "tags": [],
+    "metadata": {
+        "version": "1.0.0",
+        "name": "Cheque 309141.png",
+        "status": "Completed"
+    }
+}
