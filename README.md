@@ -12,7 +12,7 @@ The annotations were done using the [SuperAnnotate Tool](https://superannotate.c
 The tool exports a separate `.json` file for every image containing the bounding box and class information. It does not export the size of image though.
 ## Training
 
-The model was trained on Kaggle GPU(P100) for 5000 steps. You can check the kaggle notebook/kernel [here](https://www.kaggle.com/pranav10000/cheque-detection): 
+The model was trained on Kaggle GPU(P100) for 5000 steps, 0.7 loss. You can check the kaggle notebook/kernel [here](https://www.kaggle.com/pranav10000/cheque-detection): 
 
 ## Prediction
 The [Inference Notebook](https://github.com/pranavmp-10-000/ChequeDetection/blob/main/ChequeDetection_Inference.ipynb) can be used to run the prediction on the model trained.
