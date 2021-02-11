@@ -15,7 +15,7 @@ The tool exports a separate `.json` file for every image containing the bounding
 The model was trained on Kaggle GPU(P100) for 5000 steps, 0.7 loss. You can check the kaggle notebook/kernel [here](https://www.kaggle.com/pranav10000/cheque-detection): 
 
 ## Prediction
-The [Inference Notebook](https://github.com/pranavmp-10-000/ChequeDetection/blob/main/ChequeDetection_Inference.ipynb) can be used to run the prediction on the model trained.
+The [Inference Notebook](https://github.com/pranavmp-10-000/ChequeDetection/blob/main/ChequeDetection_Inference_tf2.ipynb) can be used to run the prediction on the model trained.
 
 The Google Colab link: [Colab Notebook](https://colab.research.google.com/drive/16REjj0e_ncVeWPPzlDU8GJPDicWq9o2R?usp=sharing)
 
